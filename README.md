@@ -59,6 +59,9 @@ By exploring real-world projects in fields like healthcare, finance, and telecom
 
 ## 🏆 **Certification**  
 Upon completion, participants receive a verified certificate to validate their skills and showcase their expertise in Machine Learning.   
+![machine-learning-with-python-v2](https://github.com/user-attachments/assets/d85caffe-56a3-4c5b-85b1-537499c5513e)
+
+
 
 ---
 
@@ -73,5 +76,3 @@ Upon completion, participants receive a verified certificate to validate their s
 This repository and its content are licensed under the [MIT License](https://opensource.org/licenses/MIT).  
 
 --- 
-
-This version is concise, professional, and structured for GitHub users, with all necessary details to ensure readability and usability. Let me know if you’d like any further refinements!

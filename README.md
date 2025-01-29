@@ -59,6 +59,8 @@ By exploring real-world projects in fields like healthcare, finance, and telecom
 
 ## 🏆 **Certification**  
 Upon completion, participants receive a verified certificate to validate their skills and showcase their expertise in Machine Learning.   
+![image](https://github.com/user-attachments/assets/e907b0a7-9303-4a2b-afe9-d3b914d5aa6d)
+
 ![machine-learning-with-python-v2](https://github.com/user-attachments/assets/d85caffe-56a3-4c5b-85b1-537499c5513e)
 
 
